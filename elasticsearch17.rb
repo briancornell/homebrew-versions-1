@@ -1,3 +1,4 @@
+
 class Elasticsearch17 < Formula
   desc "Distributed search & analytics engine"
   homepage "https://www.elastic.co/products/elasticsearch"
